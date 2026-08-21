@@ -1,1 +1,1 @@
-# sentiment_rnn
+#🎬 Movie Review Sentiment Analysis (LSTM + Streamlit)
