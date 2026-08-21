@@ -1,3 +1,4 @@
+# Movie Review Sentiment Analysis (LSTM + Streamlit)
 Classify movie reviews as positive or negative using a Bidirectional LSTM RNN trained on the IMDB Movie Reviews dataset (50,000 reviews), with a live Streamlit demo to test your own text.
 
 Project structure
